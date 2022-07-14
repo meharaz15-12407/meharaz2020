@@ -10,9 +10,9 @@ I’m a Full Stack Web developer who is passionate about making error-free websi
 
 Skills: PHP / LARAVEL / MYSQLI / PYTHON / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Student 
+- 🔭 I’m currently working as a Student 
 - 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate on Github And Linkedin 
+- 👱‍ I’m looking to collaborate on Github And Linkedin 
 - 💬 Ask me about For any Developing Problem... 
 - 📫 How to reach me: o5ronymeharaz@gmail.com 
 
