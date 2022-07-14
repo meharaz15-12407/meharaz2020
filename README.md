@@ -2,7 +2,7 @@
 
 ### Hi there I am Meharaz Hossain,🖐
 #### 👑 I am Web Developer
-<h4>🖊️ Love to write code</h4> 
+<h4> 🖋 Love to write code</h4> 
 <h4>🎤 Like to share my knowledge</h4>
  
 
