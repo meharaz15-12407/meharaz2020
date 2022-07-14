@@ -1,8 +1,10 @@
  <img src='https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/282253794_1170312057156861_1267273947366724123_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFbNYQchV20ZdzqH8L0SiQWl6CGr5rqVi2XoIavmupWLXQiUZJQcc5gOH_eY3S49vB69fijTHiTeQWm2cmD9-Rm&_nc_ohc=G2_iLHWwuzAAX_xLP1X&_nc_ht=scontent.fdac5-1.fna&oh=00_AT9t_0aFmCj5i2QgxwhOoyDkR70p6_1R6KP97HgQ6Phhdw&oe=62D4B00A' alt='github' height='240'>
 
 ### Hi there I am Meharaz Hossain,🖐
-#### 👑 I am Web Developer🖊️ Love to write code 🎤 Like to share my knowledge
-![👑 I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge] 
+#### 👑 I am Web Developer
+####🖊️ Love to write code 
+####🎤 Like to share my knowledge
+ 
 
 I’m a Full Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
