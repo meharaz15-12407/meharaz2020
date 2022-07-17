@@ -27,9 +27,7 @@ Skills: PHP / LARAVEL / MYSQLI / PYTHON / REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meharaz2020)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=meharaz2020&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meharaz2020)  
-
+ 
 ![GitHub metrics](https://metrics.lecoq.io/meharaz2020)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=meharaz2020)  
