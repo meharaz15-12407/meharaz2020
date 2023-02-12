@@ -6,11 +6,11 @@
 <h3>:woman_technologist: About Me :</h3> <br>
 👑 I am Web Developer<br>🖋 Love to write code<br>🎤 Like to share my knowledge<br>
  
-<div float="left">
-<div width=50%>
+<div align="center">
+<div width="45%">
   <img src="https://user-images.githubusercontent.com/56535991/121919004-354b3400-cd54-11eb-968b-5c5c3af89598.gif" width="600" height="300"/>
 </div>
- <div width=50%>
+ <div width="45%">
 Enthusiastic backend developer with solid development skills and a passion for developing applications that serve others. Proficient in both frontend and backend development with solid core knowledge such as Design Patterns, Advance RDBMS, Object Oriented and Functional Programming and Problem Solving. Experienced at developing large scale applications in PHP,Laravel that serves millions. Also familiar with the common best practices such as Data Analytic and the fundamental concepts of Devtool. Keen to work as a team, solve problems and deal with challenges rather than just writing codes alone in the dark.
 </div>
 </div>
