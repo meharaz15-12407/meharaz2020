@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-###💫 About Me: <br>
+### :woman_technologist: About Me :
 👑 I am Web Developer<br>🖋 Love to write code<br>🎤 Like to share my knowledge<br>
  
 <div align="center">
