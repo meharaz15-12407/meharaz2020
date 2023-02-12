@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/59823440/218288756-03cccb9b-1586-4c57-8cbc-b96939af5bfc.png" width="100%"/>
 <h3>:woman_technologist: About Me :</h3> <br>
 👑 I am Web Developer<br>🖋 Love to write code<br>🎤 Like to share my knowledge<br>
- 
+ <br>
 <div align="center">
 <div  align="center">
   <img src="https://user-images.githubusercontent.com/56535991/121919004-354b3400-cd54-11eb-968b-5c5c3af89598.gif" width="600" height="300"/>
