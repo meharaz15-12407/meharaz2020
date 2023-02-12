@@ -6,7 +6,7 @@
 <h3>:woman_technologist: About Me :</h3> <br>
 👑 I am Web Developer<br>🖋 Love to write code<br>🎤 Like to share my knowledge<br>
  
-<div width=100%>
+<div float="left">
 <div width=50%>
   <img src="https://user-images.githubusercontent.com/56535991/121919004-354b3400-cd54-11eb-968b-5c5c3af89598.gif" width="600" height="300"/>
 </div>
