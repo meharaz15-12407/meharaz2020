@@ -1,6 +1,6 @@
 # 💫 About Me:
 👑 I am Web Developer<br>🖋 Love to write code<br>🎤 Like to share my knowledge
-
+Enthusiastic backend developer with solid development skills and a passion for developing applications that serve others. Proficient in both frontend and backend development with solid core knowledge such as Design Patterns, Advance RDBMS, Object Oriented and Functional Programming and Problem Solving. Experienced at developing large scale applications in PHP,Laravel that serves millions. Also familiar with the common best practices such as Data Analytic and the fundamental concepts of Devtool. Keen to work as a team, solve problems and deal with challenges rather than just writing codes alone in the dark.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meharaz.TME.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meharaz_hossain07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meharaz-hossain-aa1434245) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Meharaz05-Rony) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20131265) 
