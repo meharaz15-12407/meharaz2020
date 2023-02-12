@@ -1,5 +1,5 @@
 # 💫 About Me:
-👑 I am Web Developer<br>🖋 Love to write code<br>🎤 Like to share my knowledge
+👑 I am Web Developer<br>🖋 Love to write code<br>🎤 Like to share my knowledge<br>
 Enthusiastic backend developer with solid development skills and a passion for developing applications that serve others. Proficient in both frontend and backend development with solid core knowledge such as Design Patterns, Advance RDBMS, Object Oriented and Functional Programming and Problem Solving. Experienced at developing large scale applications in PHP,Laravel that serves millions. Also familiar with the common best practices such as Data Analytic and the fundamental concepts of Devtool. Keen to work as a team, solve problems and deal with challenges rather than just writing codes alone in the dark.
 
 ## 🌐 Socials:
