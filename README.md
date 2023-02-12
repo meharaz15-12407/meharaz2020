@@ -1,8 +1,8 @@
- ![github-header-image](https://user-images.githubusercontent.com/59823440/218288756-03cccb9b-1586-4c57-8cbc-b96939af5bfc.png)
+  
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+![github-header-image](https://user-images.githubusercontent.com/59823440/218288756-03cccb9b-1586-4c57-8cbc-b96939af5bfc.png)
 </div>
 <h3>:woman_technologist: About Me :</h3> <br>
 👑 I am Web Developer<br>🖋 Love to write code<br>🎤 Like to share my knowledge<br>
